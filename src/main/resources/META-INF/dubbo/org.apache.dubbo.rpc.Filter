@@ -1,0 +1,2 @@
+myfilter1=com.example.dubboinit.dubbo.filter.BulkheadFilter
+myfilter2=com.example.dubboinit.dubbo.filter.ResponseExceptionFilter
